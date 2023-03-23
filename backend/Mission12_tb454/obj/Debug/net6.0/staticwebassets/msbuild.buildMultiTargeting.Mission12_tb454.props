@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mission12_tb454.props" />
+</Project>
